@@ -7,4 +7,5 @@
 ![20181030_175942](https://user-images.githubusercontent.com/32790344/48221262-495b7780-e39a-11e8-8236-7e688cb51d46.jpg)
 
 <h3><b>Lab_3 - 7 segment display & joystick</b></h3>
-![20181106_174551](https://user-images.githubusercontent.com/32790344/48221373-8e7fa980-e39a-11e8-9f61-74b99411363f.jpg)
+![20181106_174551](https://user-images.githubusercontent.com/32790344/48221558-1960a400-e39b-11e8-812f-af1f6028d4f0.jpg)
+
